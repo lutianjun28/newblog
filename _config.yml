@@ -1,0 +1,11 @@
+# basic options, I can say whatever here
+title: New-awesome-blog
+author: Smart Guy
+email: your-email@domain.com
+description: A test website
+twitter_username: test 1
+github_username:  lutianjun28
+
+# Build settings
+markdown: kramdown
+theme: minima
